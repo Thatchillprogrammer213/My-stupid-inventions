@@ -20,3 +20,4 @@ Current projects:
 These are my **useless inventions**
 Don't expect them to be practical(in **any** way)
 They exist because I am too bored to do anything, I make them for fun
+And you can fork them if you want, I have code ready for that
