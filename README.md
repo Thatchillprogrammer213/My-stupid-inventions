@@ -9,9 +9,14 @@ Also it was stupid for my things to sit here and everyone just watches... LOL ðŸ
 
 Current projects:
 
-- ZWSPGenerator(My first one)
+- ZWSPGenerator(My first one):
+- - Generates *air*(the ZWSP)
+- - It'll happily fill your disk
 - Future projects coming soon!
 
 ---
 
-Thanks for reading this...
+## Disclaimer
+These are my **useless inventions**
+Don't expect them to be practical(in **any** way)
+They exist because I am too bored to do anything, I make them for fun
